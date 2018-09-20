@@ -129,7 +129,7 @@ that :math:`a^r-1` is a multiple of :math:`N`. Let us use the identity 
   such as crystal lattices. Likewise, Shor's algorithm exploits
   interference to measure periodicity of arithmetic objects.
 
-Suppose we are given co-prime integers :math:`a,N`. Our goal is compute the
+Suppose we are given co-prime integers :math:`a,N`. Our goal is to compute the
 period of :math:`a` modulo :math:`N`, that is, the smallest positive integer
 :math:`r` such that :math:`a^r=1\pmod{N}`. The basic idea is to construct a
 unitary operator :math:`U_a` that implements the modular
