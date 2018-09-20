@@ -56,7 +56,7 @@ and the state at the bottom of the sphere represents :math:`|1\rangle`. 
 
 When the qubit is in a superposition of :math:`|0\rangle` and
 :math:`|1\rangle`, the vector will point somewhere between the two on the
-sphere (i.e. the angle :math:`\theta` angle becomes somewhere between 0
+sphere (i.e. the angle :math:`\theta` becomes somewhere between 0
 (pointing straight up) – and 180 degrees, or :math:`\pi` radians (pointing
 straight down). Note that in radians, 1/4 of a turn is represented by
 :math:`\pi/2`). 
